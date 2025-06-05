@@ -18,6 +18,7 @@
 ### 🌱 I’m currently learning ...
 - TypeScript and Next.js
 - Native iOS/Android performance optimizations
+- Backend fundamentals with Node.js and Express
 - Better project and client management for freelancing
 
 ---
@@ -31,5 +32,5 @@
 
 ### 📫 How to reach me ...
 - 📧 Email: uwizeyeeric@icloud.com
-- 💼 LinkedIn: [linkedin.com/in/eric-uwizeye](www.linkedin.com/in/eric-uwizeye-a97218366)
-- 🌐 Portfolio: [https://aboutmeone.vercel.app](https://aboutmeone.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/eric-uwizeye-a97218366](www.linkedin.com/in/eric-uwizeye-a97218366)
+- 🌐 Portfolio: [aboutmeone.vercel.app](https://aboutmeone.vercel.app)
