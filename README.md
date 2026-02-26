@@ -33,4 +33,4 @@
 ### 📫 How to reach me ...
 - 📧 Email: uwizeyeeric@icloud.com
 - 💼 LinkedIn: [linkedin.com/in/eric-uwizeye-a97218366](www.linkedin.com/in/eric-uwizeye-a97218366)
-- 🌐 Portfolio: [aboutmeone.vercel.app](https://aboutmeone.vercel.app)
+- 🌐 Portfolio: [About Eric](https://about-eric.vercel.app)
